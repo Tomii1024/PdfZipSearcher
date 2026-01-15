@@ -1,6 +1,5 @@
 {
   "version": "1.0.0",
-  "url": "https://github.com/Tomii1024/PdfZipSearcher/releases/download/v1.0.0/PdfZipSearcher_Setup_v1.0.0.exe",
-  "changelog": "Első stabil verzió"
+  "url": "https://github.com/Tomii1024/PdfZipSearcher/releases/download/1.0.0/PdfZipSearcher_Setup_v1.0.0.exe",
+  "changelog": "1.0.0 – első stabil verzió, auto-update előkészítve"
 }
-
